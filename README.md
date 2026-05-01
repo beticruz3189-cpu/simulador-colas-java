@@ -51,8 +51,8 @@ Al iniciar el programa, se presenta el menú con las operaciónes disponibles y 
 
 Se muestra el proceso de atender clientes, sacarlos de la cola y como se van registrando en el historial de atención (pila)
 
-![Proceso de atención e historial]](image-1.png)
+![Proceso de atención e historial](image-1.png)
 
-![Historial de ejecución]](image-2.png)
+![Historial de ejecución](image-2.png)
 
 
