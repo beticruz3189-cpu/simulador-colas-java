@@ -40,3 +40,19 @@ Este sistema simula la atención en una sucursal bancaria. Implementa una **Cola
 7. **Utilice el menú numérico para:** gestionar la Cola de espera y la Pila de historial
 8. **Para finalizar el programa de forma segura:** elija la opción salir.
 
+#Evidencia de Ejecución
+**A continuación se muestra el funcionamiento del simulador bancario en consola:**
+### Menú principal y carga de datos
+Al iniciar el programa, se presenta el menú con las operaciónes disponibles y se cargan los clientes automaticamente desde el archivo
+
+![Menú principal bancario](image.png)
+
+**Proceso de atención e historial:**
+
+Se muestra el proceso de atender clientes, sacarlos de la cola y como se van registrando en el historial de atención (pila)
+
+![Proceso de atención e historial]](image-1.png)
+
+![Historial de ejecución]](image-2.png)
+
+
